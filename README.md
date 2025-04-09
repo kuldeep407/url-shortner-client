@@ -25,3 +25,6 @@ npm start
 
 ## To start the frontend server 
 npm run dev
+
+## Postman collection link
+https://lunar-satellite-105543.postman.co/workspace/New-Team-Workspace~5d5c2752-6738-40b5-b2c8-55b7db6f2c23/request/23893324-44cca160-3f2f-4001-bec8-0e051d86397f
