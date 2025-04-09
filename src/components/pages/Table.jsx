@@ -122,7 +122,7 @@ export default function BasicTable() {
 
                 <TableCell>
                   <span
-                    onClick={() => redirectAndLog(row.originalUrl)}
+                    onClick={() => redirectAndLog(row.shortId)}
                     style={{ cursor: "pointer" }}
                   >
                     {row.shortUrl}
